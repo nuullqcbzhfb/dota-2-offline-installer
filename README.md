@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,15 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.15 or newer |
+| **Processor** | Dual core from Intel or AMD at 2.8 GHz | Dual core from Intel |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 | Metal-capable GPU (AMD GCN-based GPU or newer, NVIDIA K… |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 60 GB available space | 60 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 or newer | Windows 7 or newer |
+| **Sound Card** | DirectX Compatible | DirectX Compatible |
 
 ---
 
